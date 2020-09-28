@@ -5,3 +5,10 @@
 .tag-pill{
   cursor:pointer;
 }
+.home-page .banner p.inspire__text{
+  text-align: right;
+  font-size: 1.2rem;
+}
+.home-page .banner img.inspire__logo{
+  height: 1.2rem;
+}

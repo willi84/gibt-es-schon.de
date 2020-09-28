@@ -5,5 +5,11 @@
 
 export const environment = {
   production: false,
-  api_url: 'https://conduit.productionready.io/api'
+  title: 'Gibt es schon?',
+  api_url: '/assets',
+  apis: {
+    tags: '/tags.json',
+    articles: '/articles.json',
+  }
+  // api_url: 'https://conduit.productionready.io/api'
 };

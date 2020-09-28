@@ -1,3 +1,4 @@
+import { environment } from './../../../environments/environment';
 import { Injectable } from '@angular/core';
 import { HttpParams } from '@angular/common/http';
 import { Observable } from 'rxjs';
@@ -23,7 +24,7 @@ export class ArticlesService {
 
     return this.apiService
     .get(
-      '/articles' + ((config.type === 'feed') ? '/feed' : ''),
+      environment.apis.articles + ((config.type === 'feed') ? '/feed' : ''),
       new HttpParams({ fromObject: params })
     );
   }

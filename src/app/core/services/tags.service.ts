@@ -1,3 +1,4 @@
+import { environment } from './../../../environments/environment.prod';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 
@@ -11,7 +12,7 @@ export class TagsService {
   ) {}
 
   getAll(): Observable<[string]> {
-    return this.apiService.get('/tags')
+    return this.apiService.get(environment.apis.tags)
           .pipe(map(data => data.tags));
   }
 
