@@ -1,0 +1,177 @@
+{
+    "articles": [
+        {
+            "title": "Ideenhafen",
+            "slug": "first-article-77er46",
+            "body": "Testing Conduit article",
+            "createdAt": "2020-09-27T10:39:50.794Z",
+            "updatedAt": "2020-09-27T10:39:50.794Z",
+            "tagList": [],
+            "description": "Innovation von und für Münster",
+            "author": {
+                "username": "münster2.0",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "KlimaHeroes",
+            "slug": "first-article-y8iouy",
+            "body": "Testing Conduit article",
+            "createdAt": "2020-09-27T10:30:34.517Z",
+            "updatedAt": "2020-09-27T10:30:34.517Z",
+            "tagList": [],
+            "description": "Mit KlimaHeroes motivierst Du Dich und Deine Freunde spielerisch, im Alltag einen nachhaltigeren Lebensstil zu führen- mit klimarelevanten Echtzeitdaten aus ganz Münster.",
+            "author": {
+                "username": "münster2.0",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "TerminMS",
+            "slug": "first-article-t0pa3g",
+            "body": "Testing Conduit article",
+            "createdAt": "2020-09-27T10:30:14.612Z",
+            "updatedAt": "2020-09-27T10:30:14.612Z",
+            "tagList": [],
+            "description": "Stadtführungen neu gedacht - wir verweben das Digitale mit dem Analogen, um eine neue Erfahrung für alte Sehenswürdigkeiten zu bieten.",
+            "author": {
+                "username": "münster2.0",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "Test",
+            "slug": "test-guhggn",
+            "body": "Test2",
+            "createdAt": "2020-09-27T09:37:37.167Z",
+            "updatedAt": "2020-09-27T09:37:37.167Z",
+            "tagList": [],
+            "description": "Test1",
+            "author": {
+                "username": "Dodo",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 2
+        },
+        {
+            "title": "Test",
+            "slug": "test-f6wc7b",
+            "body": "Test2",
+            "createdAt": "2020-09-27T09:36:32.025Z",
+            "updatedAt": "2020-09-27T09:36:32.025Z",
+            "tagList": [],
+            "description": "Test1",
+            "author": {
+                "username": "Dodo",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 1
+        },
+        {
+            "title": "Test",
+            "slug": "test-zua3kx",
+            "body": "Test2",
+            "createdAt": "2020-09-27T09:20:18.327Z",
+            "updatedAt": "2020-09-27T09:20:18.327Z",
+            "tagList": [],
+            "description": "Test1",
+            "author": {
+                "username": "Dodo",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "What is this",
+            "slug": "what-is-this-th42z1",
+            "body": "And don't want to know",
+            "createdAt": "2020-09-27T09:03:22.313Z",
+            "updatedAt": "2020-09-27T09:03:22.313Z",
+            "tagList": [
+                "rumpelstiltskin"
+            ],
+            "description": "I don't even",
+            "author": {
+                "username": "zorb",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "Test Sarjerao articles",
+            "slug": "test-sarjerao-articles-6m33zp",
+            "body": "Test Sarjerao articles",
+            "createdAt": "2020-09-27T08:36:50.882Z",
+            "updatedAt": "2020-09-27T08:36:50.882Z",
+            "tagList": [],
+            "description": "Sarjerao articles",
+            "author": {
+                "username": "Karate12345",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "Фриланс",
+            "slug": "-mydula",
+            "body": "text",
+            "createdAt": "2020-09-27T08:35:18.329Z",
+            "updatedAt": "2020-09-27T08:35:18.329Z",
+            "tagList": [],
+            "description": "description",
+            "author": {
+                "username": "wizard1998",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        },
+        {
+            "title": "Test Sarjerao articles",
+            "slug": "test-sarjerao-articles-ime2uo",
+            "body": "Test Sarjerao articles",
+            "createdAt": "2020-09-27T08:35:06.946Z",
+            "updatedAt": "2020-09-27T08:35:06.946Z",
+            "tagList": [],
+            "description": "Sarjerao articles",
+            "author": {
+                "username": "Karate12345",
+                "bio": null,
+                "image": "/assets/logo_muensterhack_header.png",
+                "following": false
+            },
+            "favorited": false,
+            "favoritesCount": 0
+        }
+    ],
+    "articlesCount": 500
+}
